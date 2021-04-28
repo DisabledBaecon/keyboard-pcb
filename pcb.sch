@@ -1436,6 +1436,6 @@ Text GLabel 3600 3800 2    50   Input ~ 0
 ROW2
 Text GLabel 3600 3900 2    50   Input ~ 0
 ROW3
-Text GLabel 3600 4000 2    50   Input ~ 0
+Text GLabel 3600 4100 2    50   Input ~ 0
 ROW4
 $EndSCHEMATC
